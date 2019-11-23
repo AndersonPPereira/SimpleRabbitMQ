@@ -19,3 +19,9 @@ Após a instalação do RabbitMQ localize o Command Prompt do RabbitMQ, lembre-s
 
 No prompt de comando execute o seguinte comando:
 rabbitmq-plugins enable rabbitmq_management
+
+Após isso abra o seu navegador e acesse a seguinte url:
+http://localhost:15672
+Você será solicitado para inserir usuário e senha:
+User: guest
+Password: guest
