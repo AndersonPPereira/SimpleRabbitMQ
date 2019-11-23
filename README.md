@@ -23,5 +23,5 @@ rabbitmq-plugins enable rabbitmq_management
 Após isso abra o seu navegador e acesse a seguinte url:
 http://localhost:15672
 Você será solicitado para inserir usuário e senha:
-User: guest
-Password: guest
+ * User: guest
+ * Password: guest
